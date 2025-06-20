@@ -1,0 +1,30 @@
+/*
+Theme Name: Quirkyrabbit
+Theme URI: https://example.com
+Author: Quirkyrabbit Team
+Description: A minimal WordPress theme for demonstration purposes.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: quirkyrabbit
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+footer {
+    background: #f5f5f5;
+    color: #666;
+    padding: 1rem;
+    text-align: center;
+}
